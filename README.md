@@ -1,5 +1,7 @@
 # Enseigne-fruitiere
 It's my the solution to the following problem. I haven't yet finished all parts. I hope I will do in the coming days.
+
+
 « Une enseigne fruitière (Fruitmark) dispose de plusieurs magasins dans 5 villes en France (Marseille, Paris, Dijon, Nice, Lille).
 
 Chaque magasin vend 5 types de fruit (Orange, Banane, Pomme, Fraise, Cerise).
