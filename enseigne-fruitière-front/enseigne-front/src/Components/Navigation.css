@@ -1,0 +1,12 @@
+.navi {
+  display: block;
+
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.sideLinks {
+  margin-right: 1cm;
+  justify-content: center;
+  padding-left: 1cm;
+}

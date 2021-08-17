@@ -1,0 +1,27 @@
+.fakeTable {
+  display: flex;
+  margin-left: 2cm;
+}
+.colu {
+  padding: 2cm;
+}
+.t {
+  margin-left: 8cm;
+  margin-top: 5px;
+}
+.r {
+  padding: 1cm;
+}
+.rb {
+  padding: 1.5cm;
+}
+.rp {
+  padding: 1.3cm;
+}
+.rf {
+  padding: 1.5cm;
+}
+
+.rc {
+  padding: 1.6cm;
+}
